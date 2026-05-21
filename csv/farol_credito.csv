@@ -1,0 +1,501 @@
+﻿id_cliente,nome_cliente,cpf,telefone,email,score,qtd_contas,contas_ativas,saldo_total,qtd_emprestimos,emprestimos_ativos,emprestimos_quitados,valor_em_aberto,qtd_transacoes,volume_transacionado,qtd_cartoes,cartoes_ativos,farol,parecer
+1,Jade Cavalcanti Brito,19274863519,45998817821,aurora96@mendonca.br,474.8,2,0,747727.06,4,1,1,296269.88,37,18703.13,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+2,Rafael Pires Montenegro,32185607995,92974014721,alananovais@carvalho.com,976.18,1,0,74535.57,1,0,1,0.0,9,998.44,1,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+3,Erick Jesus Mendonça,03591768448,73982753720,cardosodavi-lucas@andrade.edu.br,122.91,3,0,1879787.14,4,0,2,0.0,62,52194.05,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+4,Ravi Pereira Marques,65041983739,02913373667,emanuelda-conceicao@marques.net,241.83,1,1,223920.96,3,0,1,0.0,16,21794.16,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+5,Bianca Monteiro Souza,15760328921,57907557247,qmontenegro@vieira.com,550.73,3,0,1651188.52,7,0,3,0.0,80,135234.35,7,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+6,Rafaela da Conceição da Cruz,09481756211,32916997121,daragao@porto.gov.br,598.35,3,0,2629018.11,8,1,2,325166.03,56,59187.52,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+7,Evelyn Montenegro Silva,76531294043,67908881842,bda-mota@ribeiro.com.br,359.52,2,1,633444.36,2,1,0,873660.84,48,21625.14,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+8,Ana Lívia Barbosa Cardoso,48361720987,95921535493,otto07@fogaca.com.br,317.86,2,1,284561.25,2,1,1,659181.51,53,25897.79,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+9,Apollo Nunes Farias,36952178040,47943992935,fonsecamaria-vitoria@pimenta.edu.br,882.03,3,2,3941742.27,5,1,3,1490206.68,83,91340.64,9,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+10,Pedro Moraes Dias,49830521605,86924768913,mariahcassiano@jesus.net,923.49,2,0,1296769.92,5,1,2,562493.44,24,30496.46,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+11,Josué Nascimento Sousa,08963754200,01962698399,melinapereira@souza.com.br,80.82,1,0,630971.52,3,1,1,997588.48,32,44321.58,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+12,Enzo da Costa Farias,08273591441,00985687455,costarafael@melo.gov.br,470.46,3,1,1378978.94,4,1,0,2806854.42,59,27110.7,5,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+13,João Vitor Nunes Siqueira,74238091523,65908781725,piresjoaquim@siqueira.com,669.77,2,1,135323.73,4,0,3,0.0,24,14343.13,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+14,Sophia Garcia Correia,25067394838,07905725202,maria-isisda-conceicao@ribeiro.com.br,394.7,2,0,664239.31,3,1,1,243875.2,33,12203.64,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+15,José Miguel Viana Martins,78410625911,48983696298,lcostela@da.com.br,917.53,1,1,481984.32,3,1,0,261155.04,16,12321.9,1,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+16,Apollo Pires Ramos,21486703950,83954244965,joao-guilhermecaldeira@leao.gov.br,699.94,1,1,74617.92,2,1,0,644907.9,39,35019.6,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+17,Rodrigo Moraes da Conceição,90458126730,35904571338,fernandovasconcelos@rezende.com.br,630.0,3,1,5623464.6,7,1,2,1503774.9,89,151743.45,8,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+18,Ayla Brito da Mata,67154832991,77921158666,gaelnascimento@cardoso.gov.br,944.76,3,0,2601808.47,7,2,1,1938511.55,67,99361.5,8,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+19,Mathias Fogaça da Paz,65812043744,76904591556,lucascirino@sa.gov.br,97.7,1,0,943468.5,1,0,0,0.0,50,35701.23,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+20,Théo Viana Martins,04693817287,00982933367,qramos@oliveira.com,955.74,3,1,1463911.08,4,1,1,3396161.52,56,54904.66,7,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+21,Arthur Gabriel Barros Cavalcante,03157289497,96974774393,vda-paz@da.com,210.24,3,0,4223505.6,7,3,3,6299470.71,98,147996.26,8,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+22,Davi Miguel Abreu Garcia,14329087669,47933671322,isadoradas-neves@mendonca.br,660.4,2,1,6962903.64,6,1,3,5052021.39,77,187962.21,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+23,Matheus Moura Sousa,48653912070,69978863799,dmoraes@fogaca.gov.br,713.53,3,0,726500.68,5,2,3,1819943.52,95,104279.92,6,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+24,Ana Carolina Costela Lima,08657423162,65959281699,enrico90@novaes.org,265.88,3,1,1398426.56,8,3,2,3981038.7,64,86751.88,5,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+25,Alícia Rios Albuquerque,28135694709,66988840279,joao-vitor85@machado.com.br,970.55,1,1,1209281.4,3,1,2,1413143.28,27,38057.46,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+26,Benício Duarte Albuquerque,57413802635,42966066426,maragao@monteiro.com.br,842.2,3,1,1080036.96,7,1,1,661406.94,47,32852.02,4,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+27,João Lucas da Cunha da Conceição,23847509683,51935239008,joao-miguelrodrigues@carvalho.org,633.54,3,1,825110.82,8,0,1,0.0,54,31173.46,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+28,Sophie Duarte da Rocha,24763910507,05958708518,fernandesana-beatriz@campos.com.br,298.44,2,1,1810293.3,6,1,2,562836.6,38,51041.64,4,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+29,Kevin Cassiano Macedo,83291507630,59927191145,ncarvalho@aparecida.gov.br,613.18,1,1,101872.1,2,1,0,86664.49,11,4390.82,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+30,Maysa das Neves Cavalcanti,17624583062,38909389253,pastorantonio@moraes.com,366.76,1,0,846099.76,2,0,1,0.0,22,15403.44,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+31,Ana Luiza Nogueira Souza,78019356401,11948699556,anthony-gabrielduarte@vargas.net,455.65,2,2,684467.4,2,0,0,0.0,37,15539.09,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+32,Thomas Novaes Nogueira,91872350640,01992540751,kpastor@da.br,957.5,1,0,37961.28,2,0,0,0.0,48,74211.72,3,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+33,Maria Fernanda Brito Cunha,26054189360,36946602608,isis80@ribeiro.com,126.19,3,1,3326740.56,5,2,2,2129794.29,79,75901.97,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+34,Lorena Guerra Santos,16972085330,42952847591,melojoao-miguel@siqueira.com,337.19,3,1,1791279.69,5,0,1,0.0,79,90399.38,8,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+35,Emanuella Moraes Costa,74813205941,70924582461,andrademarcos-vinicius@camara.edu.br,760.73,3,1,1156579.5,9,3,1,3015835.82,52,70207.17,5,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+36,Mariana Pereira da Paz,36948510701,33947598597,dgarcia@siqueira.gov.br,529.3,3,1,6286154.22,9,2,2,3418241.08,71,148379.49,8,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+37,Vitória Borges Lima,70912435879,53996607372,meloanna-liz@da.org,514.67,1,1,2392960.8,2,1,0,128322.12,34,49939.38,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+38,Nicole da Paz da Paz,80179236512,22924750712,erickrocha@brito.br,342.61,1,0,98795.76,1,1,0,587236.8,24,4919.35,1,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+39,Fernando Rodrigues da Rosa,04892136778,20924015499,guerramaria-cecilia@nogueira.com,697.65,2,0,1469246.82,3,1,0,60856.62,57,50631.86,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+40,Olivia Costela Pinto,70258491620,60922681348,muriloda-cunha@costa.br,513.66,1,0,1416480.0,1,0,1,0.0,50,39269.49,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+41,Lucas Gabriel Pinto Pires,63452897109,25983991900,da-cruzapollo@novaes.br,585.45,3,0,934330.44,3,0,2,0.0,68,20776.39,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+42,Ravy Mendes Leão,78941256011,85956194721,ipacheco@da.gov.br,801.77,2,0,1098270.26,3,0,3,0.0,41,26429.35,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+43,Allana Fernandes Costela,84397015600,67904016752,luiz-gustavolima@abreu.net,377.78,1,0,14784.28,2,1,1,1771005.96,19,17092.48,2,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+44,Júlia Freitas Siqueira,25083971640,32978629872,maria-sophia73@sales.org,259.33,3,0,2776227.52,6,2,1,3746570.01,65,102910.54,5,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+45,Murilo Aragão Lima,78130569221,69977273452,luana93@pacheco.net,59.31,3,0,3899973.78,7,1,1,15277.92,94,133748.67,7,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+46,Vinicius Martins Gonçalves,93026175803,47999776830,sophie72@da.edu.br,372.1,3,2,2504249.4,6,3,0,10107965.4,81,103906.53,8,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+47,Sara Vieira Vieira,92541678355,86976365195,diascarolina@pinto.com.br,730.16,3,2,6781404.0,7,2,3,4287205.44,86,148200.46,7,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+48,Davi Lucca Farias Sousa,59708132659,23984511719,andre49@melo.com.br,594.89,3,2,3669892.96,6,0,1,0.0,66,66223.24,5,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+49,Asafe Porto Garcia,04956731884,51933870623,marquesgiovanna@da.gov.br,51.64,1,0,262968.24,1,0,0,0.0,17,13287.6,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+50,Stephany da Mota Costela,24983056700,92907606469,natalia83@barbosa.edu.br,201.74,1,1,273646.8,2,0,1,0.0,21,32752.32,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+51,Jade Rios Mendes,02573849104,22903327838,mathiasazevedo@guerra.org,535.0,3,1,1496207.64,9,4,3,2721576.88,40,69449.31,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+52,Luiz Henrique Siqueira Leão,63920418778,99936462196,silvathales@da.br,389.95,2,2,2162690.1,3,1,0,1122023.7,48,43888.81,5,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+53,Nina da Mata da Mata,74685102371,27948202200,thomas60@costa.gov.br,492.5,1,0,259469.52,2,1,0,399725.76,12,5110.64,1,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+54,Nicole da Cruz Novaes,40589637274,99962698302,wnogueira@duarte.com.br,627.85,1,1,54208.44,3,2,0,1510924.22,26,16369.95,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+55,Ayla Lima Freitas,85023496198,35919662418,livia04@carvalho.gov.br,837.9,1,1,757032.39,3,1,0,2363937.06,19,42974.82,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+56,Benjamim da Rosa Moraes,60794128378,79944904588,nicolevasconcelos@silva.com,958.04,2,0,1446925.62,5,2,1,8753624.52,53,75551.07,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+57,Maria Clara Cavalcanti Barbosa,79301546884,36980278977,gustavo-henriqueda-mata@dias.com,168.89,2,0,413203.83,2,0,0,0.0,41,22578.38,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+58,Nicolas Câmara Moura,28615097321,37952704603,oandrade@costela.net,977.46,2,0,856610.76,3,1,0,1035968.4,66,38547.29,4,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+59,Alexandre Pastor Viana,67109248585,22973774700,daniela79@mendes.org,345.83,3,1,4233739.05,7,2,2,1780424.76,67,115848.73,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+60,Guilherme Costa Cavalcante,14857209667,33916303302,gabrielly24@ramos.br,441.5,1,0,643395.2,2,0,0,0.0,16,16734.84,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+61,Otto Machado Siqueira,83410596739,53925877241,sborges@azevedo.com,764.85,1,1,21522.24,2,0,1,0.0,27,31893.64,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+62,Renan Porto Casa Grande,20451893760,20979594307,pabreu@rocha.org,427.02,1,0,3032429.4,2,1,0,1340047.44,34,55680.0,3,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+63,Ana Clara Gonçalves Viana,72385094665,35934668369,erickcorreia@abreu.com,259.31,2,0,1547543.08,2,1,0,91181.2,66,44113.08,5,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+64,Ravi Lucca Rios Abreu,23169578030,34952435623,almeidaravy@da.br,836.8,2,1,2866785.68,5,2,1,4518035.84,55,62298.38,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+65,Vicente Albuquerque Rezende,07253614844,61967016812,yda-rosa@mendonca.com.br,955.45,3,1,6661224.99,8,2,2,5345944.8,107,187951.6,7,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+66,Maria Fernanda Carvalho Melo,04257896167,26947306243,luanaoliveira@ribeiro.net,203.57,3,1,3379152.24,6,2,0,4140160.41,103,127388.88,7,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+67,Lucca Garcia Albuquerque,46719805258,22984087502,laura21@dias.gov.br,307.45,1,0,192192.96,2,2,0,1119258.96,24,13121.26,1,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+68,Isabelly Fogaça Câmara,84193506720,86913548026,lda-rosa@pinto.gov.br,746.36,2,0,1957917.48,4,0,0,0.0,54,66378.83,3,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+69,Thiago da Mota Costa,79813042532,81906019267,lunnamachado@moreira.gov.br,462.7,2,0,1426032.4,3,0,2,0.0,38,32820.92,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+70,Hadassa Mendes Lima,20571963480,64900048695,lorena92@novaes.com,926.18,3,1,2213290.32,6,0,2,0.0,84,79812.52,5,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+71,Apollo Ramos Pinto,64057189300,26934943113,vitor-gabriel43@peixoto.gov.br,140.73,3,1,2094389.4,7,2,2,621279.23,57,50416.3,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+72,Bárbara Cirino Novais,39045162806,15948815203,moreiraesther@brito.com,572.02,3,1,2704948.02,7,3,1,4047309.3,91,115722.48,7,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+73,Samuel Siqueira Duarte,91087624576,72930928541,caroline48@farias.net,916.28,3,1,1151058.87,7,3,1,1376496.11,58,52164.24,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+74,José Barros da Conceição,38064291704,00915575803,ravy38@moraes.br,73.31,3,0,5816548.56,7,1,3,468937.8,84,116538.54,8,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+75,Antonella Leão Pereira,89167034500,49960437561,mcarvalho@gomes.gov.br,646.21,1,0,319929.6,3,2,1,787140.0,16,11340.96,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+76,João Guilherme Abreu Gonçalves,06714598300,93921999871,raquel82@albuquerque.com.br,922.66,3,0,3226210.35,5,2,1,2005161.5,71,73811.61,6,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+77,José Miguel Monteiro Santos,43291085698,55981557017,agathacorreia@azevedo.com.br,383.84,2,1,630273.69,6,3,1,1618764.81,34,25668.54,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+78,Ian Fogaça Almeida,04193726525,19931358149,maria-luisamacedo@lopes.com.br,949.19,2,0,620153.07,5,1,2,178502.89,32,21681.17,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+79,Luísa Viana Ribeiro,82513467973,07994222648,goncalvescaroline@mendonca.com.br,465.77,2,2,4531533.54,5,1,2,2343385.89,57,94504.9,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+80,Bruno Pereira da Mota,82976305102,14981601536,ianpacheco@garcia.com,434.62,1,0,85542.72,3,2,1,928812.64,16,11773.32,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+81,Brayan Marques Machado,18206975330,88991957794,cecilia37@correia.edu.br,196.46,3,1,2918971.92,7,1,2,1708391.04,84,165738.96,9,4,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+82,Ágatha Vargas Freitas,63271589003,51998602473,cecilia97@viana.com.br,224.79,1,0,378003.84,2,1,0,1338507.24,34,30979.48,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+83,Isabela Lima Brito,52714386008,76955515587,ana-liviaalmeida@albuquerque.edu.br,422.64,2,0,973040.89,2,0,1,0.0,50,20116.66,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+84,Caio Aragão da Luz,31056872977,67983309585,melohenry-gabriel@nunes.gov.br,511.52,1,1,253682.28,2,1,1,1509911.28,27,28395.6,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+85,Ryan Monteiro Cassiano,02754189360,23965246612,gsales@duarte.com,736.81,3,1,3305827.36,7,2,1,4754731.44,76,106420.66,6,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+86,Maria Liz Rezende Dias,45930217823,81976850621,araujoisadora@da.com.br,408.46,2,1,2761170.84,4,2,1,1415573.07,51,52860.28,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+87,Pedro Lucas Leão Rodrigues,71265908303,30993644679,bcaldeira@nogueira.gov.br,437.05,1,0,418715.37,1,0,1,0.0,41,29915.73,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+88,Maria Clara Guerra Costela,06923581702,19992724884,thomas42@carvalho.edu.br,419.37,2,2,801343.52,3,1,1,342728.21,34,20610.0,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+89,Enzo Gabriel Silva Aparecida,61529083702,42935319577,laura77@aparecida.com,446.56,1,0,1069775.19,1,1,0,1324238.85,33,24338.43,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+90,Paulo Gonçalves Barros,39018246506,84929742847,ecaldeira@lopes.br,634.37,1,0,37570.96,2,0,0,0.0,23,23986.04,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+91,Arthur Almeida Castro,45162039799,60989971987,maria-cecilia05@duarte.gov.br,229.89,2,1,2126159.34,4,2,0,4848705.48,61,67507.14,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+92,Beatriz Sousa Sá,89601327568,98987032133,noah54@nascimento.com,68.73,3,3,2551792.59,6,0,3,0.0,84,82692.87,7,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+93,Valentina Dias Fonseca,79346205865,40933597209,da-rochaeloa@castro.org,82.16,3,1,514110.51,4,2,0,1168876.77,54,17629.07,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+94,Allana Campos Rodrigues,53861427982,25941232305,carolinapeixoto@sousa.com,843.06,2,1,103613.67,6,2,2,471586.53,21,17438.82,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+95,Apollo Gomes Lima,24085739123,90936730576,pauloduarte@lima.com.br,879.5,2,0,6626943.18,6,2,1,6276543.6,70,122491.74,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+96,Clarice Novais da Paz,91052487360,26994874464,ecaldeira@barbosa.com.br,890.42,1,1,881282.32,2,0,1,0.0,19,20401.08,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+97,Luan Vieira Peixoto,89243657038,01912592122,uvasconcelos@araujo.com.br,974.93,3,1,1375568.26,6,3,2,8409508.61,76,93364.66,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+98,Enrico Abreu Vieira,49670518202,96984623276,vasconceloslorenzo@lima.edu.br,344.18,3,0,1723952.49,6,2,0,487557.75,55,36936.13,4,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+99,Otávio Alves Moreira,06594813242,80991993767,daniel71@barros.br,393.41,2,0,2120832.36,6,1,4,2432771.1,47,72191.31,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+100,Luigi Guerra Dias,69472805167,48932732395,alveslarissa@sales.com.br,319.06,3,1,2043535.52,5,2,1,2940201.0,44,44324.62,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+101,Zoe Guerra Carvalho,91670254801,37933200638,bernardonovais@rocha.com,578.67,3,2,3420921.06,6,3,0,5748191.24,89,123080.17,8,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+102,Ágatha Moraes da Paz,72148096567,30923385283,cavalcanticarlos-eduardo@porto.com.br,647.97,2,1,4354800.57,5,2,1,4427007.0,44,83317.72,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+103,Igor Pimenta da Cruz,24183607922,77960991871,yan45@siqueira.br,865.48,2,0,2689787.79,3,1,0,232901.73,51,56803.65,6,4,VERDE,Cliente seguro. Baixo risco de inadimplência.
+104,Rael Nogueira Brito,96352807186,45934981737,agatha10@araujo.com.br,20.67,1,0,422426.4,1,0,0,0.0,15,7949.1,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+105,Augusto Aparecida Sousa,60574892338,28943825468,maria-helenacavalcanti@casa.br,377.79,1,0,189711.36,2,1,0,130832.46,18,10182.44,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+106,Emilly Aparecida Andrade,54678021949,61929442150,oliviasa@cirino.com.br,789.09,2,1,193595.7,4,0,0,0.0,20,10774.75,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+107,Helena Sampaio Pires,32794065106,98945510519,leoda-rocha@moraes.gov.br,982.41,2,0,999725.64,4,0,1,0.0,51,55466.74,4,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+108,Caroline Rios Azevedo,68392054105,55952410525,valentinasantos@abreu.com.br,654.99,2,1,966295.6,3,0,1,0.0,38,35022.16,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+109,Kaique Barros da Mata,89260754356,29927851882,alicegarcia@lopes.edu.br,578.61,3,0,1065022.68,4,1,1,2990601.93,81,75927.48,7,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+110,Rebeca Aparecida Farias,16794382555,91944250409,pcardoso@nascimento.com.br,501.61,3,1,237565.76,6,1,1,179891.88,51,26315.82,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+111,Maria Luiza Lima Sales,96231574016,62993409843,umartins@martins.com,825.81,3,1,2886821.85,6,2,1,5976828.63,84,113236.68,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+112,Maysa da Cruz Pastor,26378910413,32946861861,lunna93@campos.net,539.66,1,0,468470.73,3,1,0,405125.5,13,10654.35,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+113,Brenda Gonçalves Silveira,76948510230,53960885542,gmoraes@da.com,161.53,1,0,218365.56,3,3,0,5609118.9,21,32981.82,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+114,Ana Cardoso Barbosa,75390821432,68994141402,iandas-neves@alves.com.br,779.45,1,0,755146.35,3,2,1,5716726.05,35,71542.71,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+115,Felipe Cirino Fernandes,68205749167,80937060934,ayllaabreu@da.gov.br,610.11,1,0,1272209.28,1,0,0,0.0,34,26354.1,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+116,Gabrielly Leão Santos,56827031462,66948280090,theo67@sampaio.com.br,302.18,2,0,1994137.96,4,1,0,666815.76,61,52006.92,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+117,Eloah Sampaio da Luz,35089762112,71928502533,igorda-rocha@rodrigues.org,998.79,3,1,2028279.29,7,2,1,206428.6,64,78901.59,6,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+118,Catarina Fonseca Pacheco,76453980193,23938643596,rodrigueskevin@correia.com,867.52,1,1,308761.6,2,1,0,2991269.4,35,37106.2,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+119,Lavínia Gomes Dias,10427586976,70990350893,isabel99@da.gov.br,514.0,3,0,964886.7,5,1,1,76445.6,60,43092.58,5,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+120,Maria Eduarda Teixeira Azevedo,51082476307,70977701387,kevinvieira@novaes.br,236.27,1,0,107123.06,1,0,0,0.0,11,2032.86,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+121,João Felipe da Conceição da Costa,70912865458,76906567420,rafaelacastro@da.com,60.93,3,3,2050625.6,6,3,1,6566837.4,72,104157.95,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+122,Antony da Costa Nogueira,92713805414,90975533213,enzosa@lopes.gov.br,605.22,1,1,467418.42,1,0,1,0.0,42,33303.42,3,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+123,Larissa Montenegro Vieira,31027856977,77918752939,davi-lucca77@sales.br,885.24,3,1,873101.08,6,2,1,1024888.86,64,89265.03,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+124,Maria Clara Vargas Azevedo,61049827511,40920331105,nunesluan@andrade.com,503.07,3,1,3482885.04,7,2,2,1543442.64,65,76702.85,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+125,Luiz Henrique Câmara Camargo,69270341887,35993366354,isisgarcia@souza.gov.br,277.99,1,1,140854.28,2,0,0,0.0,14,8265.76,1,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+126,Igor Lopes Leão,17625809340,21902801639,luigi34@oliveira.br,487.98,3,0,3564514.44,7,1,1,1713237.12,72,119868.48,9,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+127,Rael Melo Carvalho,54978160294,57953240194,samuelcaldeira@da.gov.br,196.27,3,0,6405338.82,6,2,0,2664465.5,95,130627.54,8,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+128,Bernardo da Paz Aparecida,97643501270,63909682183,isabelsilva@mendonca.com.br,42.81,2,1,1343886.52,4,0,0,0.0,57,62857.48,4,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+129,Arthur Melo Barros,47105932805,93925542251,camargoemanuella@correia.com.br,5.02,3,1,1264329.98,3,1,1,453745.46,70,39673.58,7,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+130,Murilo Fogaça Barros,28604179585,49939327829,davi53@da.net,283.93,2,0,1661200.98,3,1,1,251523.36,59,40762.19,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+131,Igor Machado Nunes,95140726858,40995049500,pimentacaroline@borges.gov.br,827.31,3,0,3528137.28,6,2,2,3623425.44,81,100524.33,8,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+132,Emanuel Cirino Silveira,40398716269,71994597305,otavio82@martins.gov.br,642.6,3,3,928597.0,6,2,1,1442792.32,81,92144.62,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+133,Caleb Casa Grande Melo,17826034922,61951260706,milenaazevedo@mendonca.com,219.76,2,1,774975.74,4,0,1,0.0,40,21847.85,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+134,Bruno Pereira Andrade,07432619840,12914061769,rezendejulia@sa.edu.br,113.18,3,1,1286808.64,5,2,0,4417288.2,64,74124.24,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+135,Eloá Dias Guerra,57620438947,56982872570,vinicius12@rocha.br,649.37,1,0,921557.76,1,1,0,1700699.04,34,19516.52,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+136,Eloá Moraes Camargo,45178329619,68960208845,cirinoallana@lopes.org,625.44,3,1,1180872.62,5,1,3,409867.24,57,39358.66,5,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+137,Heitor Borges Cardoso,74396081510,04969099063,castrohadassa@casa.com.br,684.99,3,2,2322592.14,4,1,2,2132877.96,95,83059.02,9,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+138,Gabrielly Cavalcante Araújo,02591637407,68902195261,zferreira@andrade.gov.br,284.25,3,1,1142446.16,5,1,1,772791.36,72,82060.7,6,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+139,Ian das Neves Alves,72915864373,08931994647,caua74@martins.gov.br,538.19,3,2,5147874.84,6,2,1,4228839.87,81,101050.04,7,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+140,Lorenzo Nascimento da Luz,74236590883,08978930196,vieiraluigi@cavalcanti.org,30.46,3,1,4914217.92,5,1,0,2820072.66,72,105727.68,5,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+141,Vitor Hugo das Neves Ramos,97480216530,64990393612,ida-cunha@ribeiro.com,282.29,1,0,213349.84,1,0,0,0.0,23,6329.38,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+142,Mathias Azevedo Lopes,31097245616,28935773731,emanuelly14@cardoso.com,604.97,3,2,408200.2,4,2,2,2301405.2,80,66654.56,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+143,Ester Lopes Andrade,35981467282,13900121154,smontenegro@duarte.org,656.02,2,1,1954510.8,5,2,1,3840629.5,55,69404.16,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+144,Davi Souza Costela,74092386150,08906749639,ana-clarasouza@abreu.com.br,159.11,3,2,3809506.98,8,2,1,2473910.82,70,94804.25,6,3,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+145,Maria Julia da Costa Moura,07938164593,25971428775,vgoncalves@silveira.com.br,66.47,1,0,340364.88,2,0,2,0.0,29,31319.56,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+146,Gabrielly Sá Nascimento,83794516001,32974702369,da-rochamanuella@moura.br,246.32,3,2,4274069.22,4,1,1,430760.0,86,85298.66,7,3,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+147,Mariane Jesus Peixoto,32184790532,86970750701,joananovaes@fogaca.gov.br,620.54,1,0,143139.78,3,1,0,214348.68,7,4651.29,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+148,Pietra da Rocha Silva,25341076826,65902122573,pirescecilia@da.br,455.98,1,0,2625699.78,2,0,0,0.0,33,60891.3,3,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+149,Davi Luiz Nogueira Pimenta,61743592809,18940429262,caleb42@aparecida.br,396.37,2,2,858100.88,3,1,0,1590311.34,38,33022.76,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+150,Allana Martins Macedo,56340128998,48929407058,cassianoana-liz@aparecida.com.br,848.05,2,1,1209090.06,5,2,1,430233.58,50,97093.92,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+151,Vinícius Carvalho Gomes,04257196858,65938191214,nabreu@almeida.gov.br,984.51,3,1,1171056.33,3,2,0,2134839.54,79,54033.45,7,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+152,Caroline da Cruz Sampaio,10356974243,19947073200,arthur-gabriel73@da.com,539.31,3,1,2843537.52,7,3,1,6792944.94,85,124103.26,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+153,Rodrigo Garcia Moreira,09375264874,40946633580,maria-laurasilveira@martins.gov.br,426.48,1,1,28985.2,1,0,0,0.0,20,6187.0,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+154,Yan Santos da Mata,98520641342,13945728302,bmachado@pereira.br,39.33,1,0,1846516.08,2,0,0,0.0,37,57892.08,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+155,Nicolas Fernandes Câmara,65217804335,00918122324,salessofia@azevedo.edu.br,790.81,1,1,1241400.68,2,0,1,0.0,29,34771.04,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+156,Rafaela Dias Carvalho,81695430700,02918498279,cecilia68@da.br,549.82,1,1,142984.44,1,0,1,0.0,36,25775.1,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+157,Lavínia Fonseca Nunes,34182906551,48964065921,stella20@teixeira.com,458.67,2,0,4242302.1,5,0,2,0.0,66,128385.78,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+158,Davi Luiz Pinto Moraes,79065231803,64934750789,milena15@ribeiro.org,433.54,1,0,120540.42,3,1,1,31103.93,11,10436.13,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+159,Luísa Andrade Moreira,05241368906,85974890360,ncavalcanti@pires.edu.br,598.98,3,0,3934701.72,8,2,4,6583222.3,92,170976.93,8,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+160,Calebe Cavalcanti Machado,58137692428,45923210820,alexandre05@teixeira.com.br,204.06,2,1,1790885.97,5,2,1,1152582.93,33,58144.59,6,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+161,Raquel Cirino Barbosa,68935071439,73971406936,mbarbosa@pimenta.br,699.58,2,1,661690.48,4,2,1,1547768.42,22,21972.6,4,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+162,Ester da Mota Pires,59163720868,83915410804,nvieira@cirino.com.br,440.54,1,0,409107.6,2,1,0,205570.08,18,16246.4,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+163,Amanda Marques da Costa,63240817969,33954652665,nicole24@carvalho.com,833.11,3,1,4579745.14,5,0,1,0.0,84,93828.9,7,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+164,Evelyn Nunes Farias,65704931243,08940281176,sofia48@nogueira.net,268.96,2,1,3019571.64,3,1,1,1763596.8,61,61278.64,5,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+165,Isabella Campos Rocha,64197083548,50938910562,maria-clara43@da.com.br,972.24,1,0,1082669.28,3,0,2,0.0,28,17184.57,1,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+166,Júlia Cassiano Rodrigues,76185302462,32981703424,ramosdavi-lucca@pires.com,510.02,3,1,3699935.9,7,0,4,0.0,74,81697.98,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+167,Davi Lucca Nunes Marques,71895362482,73950983046,rebeca71@santos.br,724.63,3,2,2834172.46,7,2,4,5561500.23,76,101637.4,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+168,Lívia Mendonça Rodrigues,52871634955,75934345338,costaester@das.com.br,120.03,2,0,1255462.88,3,2,0,1846588.64,62,49625.62,4,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+169,Emanuel Rocha Dias,34598762047,87937380541,marinacamara@da.com.br,849.23,2,0,2445008.49,4,1,0,2437373.7,60,69803.07,5,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+170,João Gabriel Gomes Andrade,02746195399,12976378283,klopes@vasconcelos.gov.br,181.99,2,0,1287876.51,6,1,0,3812085.09,48,93830.34,4,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+171,Aurora Carvalho Camargo,60541387235,87908145134,ycavalcante@da.br,716.9,2,0,461853.02,2,1,1,219138.15,31,13260.23,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+172,Maria Isis Rocha Ramos,56924380700,04906840511,nunesolivia@porto.org,938.85,2,1,4466723.4,5,1,2,3302157.21,44,93422.79,5,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+173,Mariane da Mata Cunha,91450687202,94927041859,carvalhogael-henrique@novais.gov.br,634.31,2,1,614108.4,5,2,0,1477430.9,30,24239.71,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+174,Luiz Miguel Barbosa Monteiro,38920741603,63907593682,lorena01@cardoso.gov.br,42.43,3,0,2602078.66,5,1,0,3184178.76,81,55690.49,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+175,Thomas Duarte Aparecida,95867401294,57956398316,zbrito@macedo.net,442.09,1,1,79102.72,1,1,0,168263.2,16,3008.35,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+176,Maria Luiza Peixoto Martins,59803721488,49919692764,camargorafaela@brito.com.br,478.7,3,2,1109365.06,6,1,2,394714.33,56,44545.43,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+177,Isadora Correia Correia,16904853298,58954201539,luiz-gustavo38@pacheco.gov.br,922.87,1,0,458150.68,1,1,0,2441089.56,26,13318.3,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+178,Isadora Guerra Andrade,07591284649,35962921237,yancasa-grande@da.com.br,954.55,1,1,1469.2,1,0,0,0.0,20,8865.78,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+179,Henry Azevedo Gonçalves,45602873929,78903609851,lucas-gabriel50@da.edu.br,206.63,3,1,4492304.22,8,1,3,597440.62,69,86789.97,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+180,Vitor Monteiro Rezende,76359412080,31985914668,hrios@pinto.com.br,199.85,1,0,367316.8,1,0,0,0.0,20,7923.98,2,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+181,Mathias Vargas Caldeira,12450867902,42932722346,manuella88@silva.org,227.95,1,0,575180.97,3,1,0,589914.91,13,8245.38,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+182,Ravy Sá Rezende,26015497858,52954018872,isabelly42@gomes.br,291.3,1,0,314635.2,2,0,1,0.0,12,6173.96,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+183,Pietra Moura Sá,65192874076,35953465341,fsouza@alves.com,908.79,3,0,2281694.08,7,3,2,4931278.92,66,66779.95,5,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+184,Antony Rodrigues Porto,92756031895,51932341358,correiaalice@goncalves.edu.br,519.81,3,0,3426879.25,7,0,2,0.0,82,100864.99,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+185,Marcela da Cunha Nascimento,86124097567,19913279220,alicecasa-grande@lopes.com,449.03,2,0,2369922.45,6,3,1,3772259.01,55,91355.73,5,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+186,Rhavi Ribeiro Moreira,93865174000,73914110435,teixeirajade@moura.com.br,885.02,2,0,3781593.45,3,1,1,1938975.96,77,79283.31,6,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+187,João Vitor Costa Vargas,52671934882,76926433214,hmoraes@camara.edu.br,668.93,2,0,799542.88,3,1,0,88168.5,31,23280.18,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+188,Alícia Souza Nogueira,98016257321,23945793364,anthony20@ramos.net,970.51,1,1,701301.51,1,0,1,0.0,39,25289.28,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+189,Kevin Cassiano Melo,25361748919,58978081514,sofia26@caldeira.net,676.73,2,0,814828.58,3,0,1,0.0,41,20691.68,3,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+190,Ana Julia Cavalcanti Barbosa,65108472307,59904636409,rochasophia@oliveira.br,347.63,2,0,1886290.8,3,1,1,2782692.06,72,81347.79,6,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+191,Vicente Castro da Rocha,68254790329,65919106856,manuela73@gomes.com.br,870.08,2,0,663972.72,3,1,0,354733.92,46,28738.74,4,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+192,Luigi Gonçalves Teixeira,92506847111,80993790269,fonsecajuliana@leao.br,936.33,2,1,1369150.94,3,1,0,1788509.97,40,49369.28,5,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+193,Gabrielly Camargo Leão,02783691540,24980503068,matheus36@dias.com,278.53,3,1,1105583.94,4,1,2,369498.36,53,33829.6,5,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+194,Bernardo Cardoso Mendes,85427093656,08910776453,melissa12@lopes.com.br,28.62,2,1,2273490.72,6,0,3,0.0,51,89998.35,5,3,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+195,Maria Liz Macedo Sampaio,92156748020,54901678077,raul80@barros.net,223.02,1,0,309869.28,1,1,0,1435188.51,21,17963.43,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+196,Olívia Câmara da Rosa,65314089793,33964752056,fda-mata@cavalcanti.gov.br,434.17,2,1,1621322.76,3,1,0,847532.28,46,44310.73,5,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+197,Vitor Hugo Vargas Moura,30627951406,28992694841,bento39@santos.com.br,336.12,2,0,1600848.27,5,1,2,4139951.73,57,89337.86,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+198,Lucas Machado Montenegro,90581472314,87983560864,liz85@da.br,129.81,1,0,2098432.98,2,0,0,0.0,27,45869.28,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+199,Ana Carolina Barbosa Sá,58243670947,23964483302,eduardo03@almeida.gov.br,546.42,2,0,571652.08,4,0,1,0.0,38,18910.02,2,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+200,Luiz Miguel Freitas Vargas,91428356746,05927672259,freitasmiguel@mendonca.gov.br,157.19,3,0,5596225.64,8,3,1,2667700.08,71,117706.87,6,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+201,Cauê Vargas Cavalcanti,37201689568,45979919163,kaiquesiqueira@almeida.gov.br,146.9,3,0,1430034.0,6,2,1,3310977.12,49,52196.56,7,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+202,Gael Moreira Novais,18507963277,18967927307,mendoncalucca@porto.org,607.3,3,1,5395717.82,7,2,1,10802148.18,87,151720.19,7,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+203,Ana Carolina da Cunha Fogaça,63512907830,51969539820,gsa@almeida.com,673.38,1,0,224229.12,2,1,0,548046.48,12,10956.32,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+204,Júlia da Luz Freitas,38016792413,51974404169,fonsecapaulo@farias.com,12.97,2,1,757828.32,4,1,1,688780.05,58,63982.58,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+205,Luiz Henrique Andrade Casa Grande,85140273608,08966789349,henrique02@machado.gov.br,838.04,1,0,2245417.2,2,0,1,0.0,36,62117.88,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+206,Levi Sá Campos,79850416211,42942734674,luiz-henrique56@silveira.com.br,538.5,1,1,1157790.0,3,0,2,0.0,25,42038.64,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+207,João Guilherme da Luz Peixoto,05482619389,08971319845,qnunes@ribeiro.com,982.25,3,3,3758154.78,6,2,2,3348889.38,117,167734.7,8,5,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+208,Ravi Lima da Cunha,54082796347,30901041699,freitascarolina@freitas.com,234.75,2,1,1063430.58,6,2,0,701008.43,34,25323.24,2,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+209,Luísa Gomes Nascimento,95403162780,67984215115,pedro-henrique43@moraes.gov.br,733.39,2,0,1176732.18,5,0,1,0.0,54,87522.1,5,3,VERDE,Cliente seguro. Baixo risco de inadimplência.
+210,Fernanda Lopes das Neves,20961437804,75973115243,erick84@cavalcante.br,980.7,1,0,102413.02,1,0,0,0.0,23,11794.44,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+211,Kevin Brito das Neves,50326174907,01984495095,correiacarolina@novais.com.br,817.88,2,2,1440520.4,4,1,0,348995.4,40,39828.08,4,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+212,Vitória Fernandes Pereira,30517492814,54921571890,bcaldeira@rios.com.br,184.3,2,0,523397.34,4,3,1,10287762.42,86,137908.8,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+213,Juan Cavalcante Rezende,79614308222,56996504481,cauabarbosa@garcia.br,502.33,3,0,2834717.87,4,1,0,1973923.12,68,54510.49,8,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+214,Maria Araújo Montenegro,68925104342,40953156273,ramosmaria-flor@moura.gov.br,332.92,3,1,3899457.48,6,2,1,3012339.28,70,99199.99,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+215,Lavínia Nunes Santos,87635910493,30922049302,rochamaria-laura@azevedo.com,409.48,3,2,2712769.2,9,3,1,6613721.4,79,161492.04,8,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+216,Luiza Sampaio Pinto,54068173966,21915659694,da-pazfernanda@dias.org,961.72,1,0,1772405.4,2,2,0,9835457.61,41,60534.6,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+217,Sofia Garcia Gonçalves,23785091621,37963590014,das-neveslaura@vasconcelos.com.br,257.73,3,2,1319521.58,6,3,0,4388268.14,68,92043.94,7,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+218,Maria Luísa Rodrigues Monteiro,72946850102,73922649358,novaessara@cassiano.br,215.19,3,1,4666936.0,6,1,2,460476.24,96,140936.27,8,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+219,Benicio da Mota Ramos,69473012543,83959344174,hnunes@vasconcelos.br,268.3,1,0,1021754.25,3,0,0,0.0,27,24772.74,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+220,Lorena Pires Viana,87364501207,96991353379,ravinunes@ribeiro.net,451.53,1,1,85758.66,2,1,1,18412.32,3,1570.84,1,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+221,Yuri Aparecida Duarte,89017256303,45914662250,cunhaana-cecilia@silva.com.br,575.96,1,0,924036.03,1,0,1,0.0,43,34950.3,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+222,Liz Montenegro Dias,41805962370,69988536210,cunhathiago@goncalves.com,561.5,3,2,2944146.14,6,0,1,0.0,73,74896.0,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+223,Ana Laura da Cruz Guerra,37429601804,46965051433,castromarina@rios.gov.br,509.83,1,0,282136.26,3,1,0,372603.14,14,8122.11,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+224,Natália da Luz Lima,16548297300,13960702193,cecilia63@montenegro.net,295.02,1,0,277047.1,2,0,0,0.0,11,6568.36,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+225,Ana Júlia Alves Albuquerque,92340871603,31922400751,lorenzoazevedo@moraes.com.br,835.18,3,0,3486878.8,7,2,1,4277256.28,127,168902.74,6,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+226,Yasmin Ramos Guerra,71209346516,09938200660,ceciliagarcia@albuquerque.org,26.65,3,0,543237.3,6,2,3,1097680.42,60,27844.07,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+227,Stella Araújo Freitas,10856924342,84910342474,isis58@da.com,705.07,3,1,4331301.48,5,1,1,4490536.8,102,130290.9,9,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+228,Rebeca Nogueira Camargo,39768510277,94974554252,ana-claracampos@pires.com.br,956.75,3,2,2475131.34,7,3,2,7483920.39,86,159453.53,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+229,Joana Costela Borges,45237890610,46921390839,eloah78@da.net,877.12,1,0,28933.92,3,2,0,1716412.08,12,16757.88,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+230,João Gabriel da Rosa Correia,92157063803,48913036720,isaquepereira@goncalves.org,355.95,1,0,197007.44,1,0,0,0.0,14,2693.41,1,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+231,Vitória Gonçalves Marques,21689470585,90945055091,casa-grandemilena@aragao.net,172.51,1,1,1319535.84,2,1,0,773493.03,43,65148.54,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+232,Carlos Eduardo Pires Andrade,75846103901,51953183003,emillycorreia@peixoto.com,921.29,3,0,1069392.18,8,0,2,0.0,51,33078.94,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+233,Francisco Casa Grande da Luz,68751904276,33995835654,claramelo@oliveira.com.br,332.09,2,1,1323825.6,5,2,2,1160381.15,45,46103.14,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+234,Aurora Sousa Guerra,19764520316,56970103495,moraesanna-liz@siqueira.br,964.25,1,1,1400058.27,1,0,1,0.0,39,33011.13,3,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+235,Juliana Machado Borges,63154209743,78907987861,danielavargas@nascimento.com,710.2,1,0,1996894.62,3,1,0,2892753.36,42,105810.93,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+236,Cauê Guerra Abreu,28167350959,36935749819,luiz-felipeda-rosa@martins.com,837.75,1,1,52909.92,2,1,0,3959971.17,29,48738.9,3,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+237,Isabella Costa Albuquerque,98570146230,93936320093,matteocorreia@vargas.com.br,552.07,1,0,22697.78,1,1,0,189493.84,19,4273.04,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+238,Ravi Lucca Souza da Cruz,98204573600,14957274078,yurisilveira@farias.gov.br,749.91,1,1,1138061.4,3,2,0,1841696.08,28,20156.55,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+239,Ana Vitória Gonçalves da Mata,97651284364,70995338930,isabelfernandes@fonseca.gov.br,583.66,1,0,602913.26,2,0,0,0.0,23,9695.12,1,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+240,Letícia Ferreira da Cunha,19703864287,91973360978,wpinto@da.com.br,924.81,2,0,2390086.2,6,3,1,2194020.94,38,56118.6,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+241,Igor Fonseca Sousa,51426790325,33910833627,ana-livia57@barros.gov.br,540.3,1,1,14338.2,1,1,0,2256221.4,30,12853.56,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+242,Alice Pastor Fogaça,59162347837,40978207856,ravymachado@da.gov.br,292.23,3,1,509349.94,3,0,1,0.0,35,18557.6,6,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+243,André Silveira Garcia,37614085957,59921762096,leonardo74@lima.br,194.0,2,1,775542.68,5,0,2,0.0,47,49332.96,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+244,Caleb Porto Caldeira,18405397639,69992276386,rodriguesoliver@rocha.com.br,114.82,2,1,365857.19,4,0,1,0.0,46,23897.79,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+245,Olivia Lima Araújo,73691428096,22981760447,nathandias@pinto.gov.br,799.89,2,0,295903.26,4,1,3,408014.19,24,13470.4,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+246,Alexandre da Rosa Aragão,30792658159,53984149921,davi-luizmacedo@novaes.br,245.9,3,0,1647252.81,4,0,1,0.0,105,68702.38,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+247,Caio Moura Machado,80452169305,94948985534,leticia62@marques.gov.br,257.74,1,0,411630.08,1,0,0,0.0,32,15984.32,2,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+248,Fernando da Cruz Borges,30892574160,13968817059,gmachado@nogueira.org,562.6,1,1,1367932.86,3,1,1,201859.56,27,42693.42,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+249,Vicente Gomes Pereira,43698027178,02974391738,davi-luccamoura@araujo.com.br,22.23,2,1,313268.52,5,2,1,1038684.08,25,28337.04,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+250,Bryan Azevedo Nogueira,04251369815,11929683722,sajose-miguel@oliveira.edu.br,593.51,3,2,3185463.3,5,1,0,759878.82,83,62573.85,7,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+251,Antônio Sousa da Cruz,01745896384,01961000426,natalia11@pastor.com,922.84,1,1,2345346.54,3,0,1,0.0,31,44458.92,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+252,Valentim Abreu Rodrigues,43062951761,95979947814,helenacavalcante@da.com.br,902.33,1,0,315421.2,2,0,0,0.0,30,28715.96,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+253,Emanuella Rocha Barbosa,14829706350,97998069991,fariasryan@melo.br,112.43,3,2,3696109.92,8,2,3,3457922.67,94,144605.34,7,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+254,Rafael Nogueira da Conceição,91625704399,71949866039,mariaharagao@pacheco.org,717.68,3,2,2181902.02,8,5,2,8866449.46,82,119631.9,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+255,Emanuella Marques Souza,41079382631,22915723652,tcardoso@da.net,718.91,2,1,100959.42,3,2,0,1773902.22,59,32433.24,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+256,Luiza Albuquerque Carvalho,18749502379,97954900101,anthony16@da.com.br,833.51,3,2,2324956.9,7,1,2,1991137.26,51,41322.01,4,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+257,Leandro Rezende Viana,08651792395,26947684756,rodrigomoraes@silva.com.br,609.45,3,2,2818183.98,7,2,0,2678430.32,95,160509.65,7,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+258,Henry Gabriel Machado Lima,90513624716,94986508286,lara34@martins.com,978.54,2,1,2311930.5,4,0,1,0.0,51,84230.67,6,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+259,Ana Vitória Cunha Aragão,79105428602,04905856055,sousamaria-clara@monteiro.com.br,785.45,3,0,3243088.71,7,2,1,2262431.02,78,101921.9,7,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+260,Caroline Costela Sales,41730596207,49982413580,maria-liz84@melo.com,337.14,3,0,1795517.5,6,2,1,1840490.02,83,107763.86,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+261,Mariana Gonçalves Sales,15083792460,70957584154,guilhermelima@ferreira.gov.br,874.85,3,1,2326906.36,5,3,0,4468736.34,89,85188.22,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+262,Daniela Sá Leão,41692538764,63944715711,da-cunhajoao-miguel@da.org,223.51,1,1,104498.52,3,0,2,0.0,28,21234.33,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+263,Erick Correia Costa,76105348207,45941904795,xda-conceicao@sales.edu.br,929.19,2,1,4520611.2,4,1,0,1891559.25,56,91536.9,4,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+264,Maria Moreira Gonçalves,38179240541,76953872737,piresheloisa@mendes.br,948.01,3,0,1995073.89,7,3,1,4301660.72,81,122337.3,7,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+265,Maria Fernanda Dias Macedo,26539804792,03923993811,hpeixoto@jesus.com,305.36,3,0,2681014.48,6,3,2,6113158.54,76,95698.75,7,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+266,Kamilly Caldeira Ramos,28594703104,14906583882,isabelly61@vargas.com,706.05,1,0,1106706.3,2,1,0,4165467.6,35,56523.6,3,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+267,Rafaela Carvalho Silveira,43615902734,24919769003,diogo98@duarte.org,922.52,2,0,1588814.16,3,1,0,4860679.2,61,50632.69,5,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+268,Ana Moraes Santos,84970326592,37973181379,joao-felipepinto@vasconcelos.com,632.67,1,0,477317.61,3,1,2,393384.42,33,88377.21,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+269,Antonella Pires Novaes,52143069707,36903198202,gustavocampos@siqueira.org,791.4,1,1,230805.3,1,1,0,1206235.8,33,14489.14,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+270,Julia Costa Pinto,85217346973,91929457510,renansilva@guerra.com.br,852.74,2,0,470686.04,4,1,1,212673.08,58,61955.82,4,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+271,Luiza Cunha Ramos,43692810598,48993447363,cirinoravi-lucca@da.net,155.5,2,1,1443202.47,2,1,1,5470001.88,66,51955.32,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+272,Hellena Barros Pereira,46572380947,03925942625,hmacedo@lopes.com.br,142.76,2,0,615544.5,3,0,1,0.0,40,22670.28,4,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+273,Davi Lucca Santos Sampaio,37108265435,49910134598,lteixeira@mendonca.com.br,740.74,1,0,764563.8,2,1,0,1466846.22,21,21233.08,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+274,Eduardo Cassiano Carvalho,57913024607,43995100361,marquesarthur@ramos.gov.br,498.25,2,0,3574152.43,5,1,2,2622013.6,77,119890.57,5,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+275,Benjamim Lopes Castro,43260891722,49917780263,evelyncunha@macedo.org,72.44,3,1,2365841.56,6,0,2,0.0,61,45794.03,5,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+276,Isis Ribeiro Caldeira,79132084650,77943101383,maria-alice15@goncalves.net,820.8,1,1,208016.49,3,1,1,136882.79,11,9975.33,1,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+277,Dom Cirino Araújo,17942568300,30996392046,anthony-gabriel30@vasconcelos.edu.br,224.03,2,0,4706823.96,5,1,0,3449426.4,61,100577.64,5,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+278,Ana Lívia Sales Rios,18739650448,31951364278,ana-sophiamoraes@melo.edu.br,914.78,3,0,785123.96,6,4,0,2901163.99,52,46150.68,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+279,Aylla da Rosa da Cruz,07968235103,04913436696,maria-julia37@cavalcanti.edu.br,98.38,2,2,3979338.06,4,2,0,6416475.99,61,83872.68,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+280,Emanuelly Lima Pinto,45973126099,38922688022,fernandamendonca@viana.edu.br,600.1,3,1,4087882.62,6,3,0,9570817.89,98,149462.57,7,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+281,Maria Isis Moraes Rodrigues,26543819006,31949566808,agatha28@lopes.br,870.8,3,1,357603.74,5,1,1,3891640.74,64,46567.27,6,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+282,Mariane Campos Araújo,14923678003,26967548407,milenaalmeida@sousa.br,195.11,3,2,1310681.78,7,4,0,1715476.57,54,56808.33,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+283,Mariana Fogaça Farias,18437250960,00946290122,cirinojoao-lucas@castro.br,584.66,1,0,1229638.08,3,0,1,0.0,16,28297.38,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+284,Cecilia Fogaça Correia,35829740141,62928287408,mrocha@dias.br,324.85,2,2,4130101.59,5,1,1,224657.1,77,137947.2,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+285,Stephany Castro Machado,46170298502,32907834298,qgoncalves@moraes.org,789.17,1,0,2060477.28,3,1,1,72485.76,24,36452.46,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+286,Natália Barbosa Rios,78309614500,74961102125,souzamaysa@vargas.br,64.19,2,0,985261.64,3,1,0,3421601.82,42,26282.97,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+287,Emanuel Rodrigues Araújo,20941786501,24968091762,cavalcanteallana@nascimento.com,207.86,1,1,383833.44,3,0,1,0.0,19,48887.19,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+288,Rhavi Freitas Dias,82695701411,52991291447,lucascamargo@pimenta.org,925.0,1,0,486257.64,1,0,0,0.0,22,11999.3,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+289,Diego Alves das Neves,20537948600,12930070078,umonteiro@pinto.com,507.75,1,0,1133132.64,2,1,0,867468.94,19,20871.92,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+290,Noah Freitas Araújo,80162435762,37951260468,zfernandes@rocha.com.br,868.04,3,1,4078374.65,6,1,3,1297664.82,99,85794.51,6,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+291,Ana Vitória da Conceição Campos,52164037871,24942392734,ymendonca@cunha.com,852.74,2,1,739883.16,4,2,1,3004670.52,38,40110.58,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+292,Alexandre Dias Viana,12850739677,12959763197,vitor-gabriel60@castro.com,208.65,1,0,107475.72,1,0,0,0.0,11,2742.34,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+293,Alícia Albuquerque Teixeira,60983742529,49968231170,riosbianca@viana.br,194.93,1,0,824048.25,1,0,1,0.0,25,22016.31,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+294,Vitor Hugo Leão Ribeiro,56792431052,67993886927,wnovais@melo.gov.br,638.68,3,0,4828034.25,8,2,2,4176667.17,114,207396.33,8,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+295,Ana Júlia Sá Siqueira,42716850976,71969929303,aragaoarthur-miguel@farias.com,695.27,2,1,946091.96,3,2,1,3614657.92,37,22569.27,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+296,Marcelo Rios Cardoso,46051279334,93989718976,ccarvalho@fogaca.br,274.55,2,1,3587416.18,4,0,0,0.0,47,94802.96,4,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+297,Antônio Casa Grande Siqueira,26593814709,56998770102,maysa01@da.com,849.87,3,0,2557121.62,7,3,0,4745643.66,67,115485.81,7,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+298,Henrique Silveira Jesus,85396417200,34948803923,emanuellanogueira@correia.br,424.95,2,2,1939276.9,4,0,2,0.0,50,80959.38,5,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+299,Davi Oliveira Alves,50678439265,52955755645,tsiqueira@campos.com,42.09,2,0,998693.15,2,0,0,0.0,45,32447.93,4,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+300,Matheus Leão Campos,57362041934,72960710943,hnascimento@abreu.edu.br,253.7,1,0,536400.48,3,0,1,0.0,22,17130.93,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+301,Larissa Marques Monteiro,02964817340,07914145998,yasmin69@aragao.com.br,384.42,2,0,527277.48,4,1,1,768191.16,52,51272.9,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+302,Ana Carolina Lima Sousa,50372698492,25983297745,ngoncalves@lima.com,366.29,1,0,233240.28,3,2,0,320403.51,7,6262.14,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+303,Léo Macedo Alves,28143697096,26988406179,hellenasousa@souza.br,653.05,1,0,213782.4,3,0,0,0.0,26,16511.28,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+304,Noah Vieira Martins,10527386995,46916104798,emanuel07@silva.br,998.97,1,0,37009.44,1,1,0,225470.16,36,18214.34,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+305,Dante Abreu Albuquerque,70284319678,22906914576,riosrenan@barros.gov.br,767.35,1,1,2857453.56,3,1,0,199129.32,26,61003.35,3,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+306,Nicolas Souza Nascimento,41396852719,20983303389,nathanbrito@rocha.com.br,236.41,2,1,359777.78,3,2,0,220252.44,31,13754.68,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+307,Raul Duarte Azevedo,95487032114,21973701017,ofogaca@mendes.gov.br,991.5,2,1,1195861.08,3,1,1,2516218.2,36,23597.05,4,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+308,Isadora Nascimento Cunha,23961485089,56992941839,qsa@albuquerque.com,843.11,2,0,1918282.11,4,2,1,1811076.75,47,57711.81,5,4,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+309,Marcelo Peixoto Câmara,21643958089,65979199304,vitor89@mendes.org,96.77,2,1,1596170.58,6,3,1,3715353.05,59,110630.28,5,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+310,Ana Lívia Siqueira Campos,82639754173,12959304381,montenegroana-sophia@duarte.com.br,500.65,1,1,2775894.3,3,0,2,0.0,30,68615.46,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+311,Francisco Machado Pacheco,78930256112,93997644434,monteirodavi-lucca@peixoto.com,126.07,1,0,95760.0,3,0,2,0.0,15,18598.26,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+312,Lívia Teixeira Lima,19875203602,48955598166,vramos@monteiro.br,693.94,1,0,106567.73,1,0,0,0.0,17,4611.35,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+313,Heloísa Rocha Garcia,81763290450,77955429415,heloisa02@abreu.com,936.35,1,1,72131.04,2,1,1,9928.4,8,4238.38,1,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+314,Vinicius Gonçalves Sá,48139762040,09900297379,fsantos@castro.com,694.43,2,1,2853081.18,4,0,3,0.0,62,72507.66,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+315,Antônio Sá Vieira,48937605139,41970681678,rodriguesfrancisco@da.com.br,450.85,2,2,589630.08,3,1,2,677583.52,32,12612.9,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+316,João Vitor Sá Pastor,01489527397,21960051082,luna96@leao.br,784.45,2,0,644283.72,3,0,0,0.0,42,17889.85,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+317,Benjamin Monteiro Silveira,91268537012,53964391018,zrios@macedo.com.br,397.51,1,0,2641915.17,3,1,1,208595.28,31,71982.72,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+318,Arthur Gabriel Machado Rodrigues,89427130687,34961239565,machadonathan@novais.edu.br,878.35,1,0,144246.24,2,0,0,0.0,24,11560.46,1,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+319,Amanda Vargas Castro,52739164025,97990096053,cunhafrancisco@da.br,578.74,1,0,291001.98,2,0,1,0.0,23,38932.08,3,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+320,João Vitor Souza Santos,17538294023,26992026342,emanuella54@leao.br,927.91,3,0,1160252.06,5,2,1,1738617.4,60,25945.78,3,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+321,Pedro Miguel Almeida Cirino,02586349792,74925325439,enzorezende@fernandes.com.br,363.68,3,3,1467796.92,7,2,1,3458868.4,83,86678.34,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+322,Levi das Neves Barbosa,61304978575,06922278238,erickjesus@oliveira.gov.br,511.13,2,0,2153613.24,6,1,1,1524444.0,58,74011.5,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+323,Kaique Pinto Rocha,42956813005,51983149167,aliciapeixoto@moraes.gov.br,32.71,1,0,661346.25,1,0,1,0.0,25,19705.95,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+324,Eloah Alves da Rocha,45670298365,47968246757,maria-lauramontenegro@rocha.br,928.59,2,0,1869041.28,5,1,1,327188.7,58,102269.46,5,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+325,Jade Ramos Jesus,48519230741,36996773723,vsampaio@porto.com,458.03,3,1,1004595.36,8,1,2,662569.56,82,98042.16,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+326,Léo Freitas Araújo,30274961580,62935239763,jpimenta@borges.org,819.6,1,1,388444.56,1,0,1,0.0,28,20230.23,3,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+327,Caio Guerra Pinto,14725903841,31999017197,franciscosilveira@porto.br,221.98,1,1,678258.72,3,2,1,1691231.52,24,37808.16,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+328,Marcela Ribeiro Rodrigues,78149652094,09959935829,sofia16@lima.com.br,726.39,1,0,808236.24,1,0,0,0.0,28,20580.63,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+329,Ana Moreira Novais,01793652821,51987241009,cavalcantemaria-eduarda@mendonca.com.br,835.08,1,0,733647.0,1,0,0,0.0,50,37559.79,3,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+330,Luiza Alves Pires,62450738126,82964415405,caldeiramaya@andrade.com,466.91,2,0,5248227.78,6,3,2,9178876.86,66,151740.81,6,4,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+331,Melina da Luz Lopes,14570236952,57948942705,eloah09@da.com.br,543.27,3,0,3943179.54,6,1,1,6369836.82,85,99504.88,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+332,Aurora Borges Freitas,53026719803,39986714327,ninalopes@farias.com,979.61,3,1,3368192.58,6,2,3,2269011.0,84,76348.29,7,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+333,Mateus Moura Moura,93081427541,15963721482,leandrogoncalves@goncalves.br,282.95,2,1,2879427.84,3,1,1,1295439.75,76,69003.94,5,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+334,Gabrielly Macedo Mendes,92816374050,78979414800,isabella28@marques.org,236.05,2,1,896152.18,4,1,1,264467.5,53,42480.27,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+335,Ana Beatriz Freitas da Cruz,98740513297,87942634262,silveiracaleb@ferreira.com.br,335.27,2,1,608167.17,4,1,1,304827.3,33,18837.49,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+336,Ana Carolina da Luz Leão,27635410970,89953678509,thalesmendes@barros.edu.br,137.95,3,1,792748.18,6,1,0,2506404.52,89,86276.12,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+337,Ian Almeida Aparecida,90163752877,51959760173,milenanascimento@correia.com.br,534.31,3,1,1988655.32,8,1,2,321884.64,64,106448.31,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+338,Gabriel Monteiro Rodrigues,65209784347,51922946790,mendoncapietro@da.br,906.18,1,0,218529.78,1,1,0,647871.84,21,5474.32,1,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+339,Jade da Conceição Ramos,29761504352,62945917526,oramos@cunha.br,868.09,1,0,430594.32,1,0,1,0.0,29,16576.65,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+340,Maya Nascimento Sales,08213576462,12922127258,ycamargo@fogaca.gov.br,7.76,3,0,3226770.63,6,4,2,3591554.79,74,76402.8,7,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+341,Luana Porto das Neves,30472615807,93961892285,camargoravi-lucca@sampaio.com.br,822.42,1,1,1952866.8,2,0,0,0.0,30,44867.94,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+342,Joaquim Azevedo Lopes,59824017658,02900436121,pazevedo@brito.edu.br,944.94,1,1,151805.43,3,2,0,1634022.6,21,13864.17,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+343,Luan Cavalcante Almeida,63927510416,62957337910,dmendonca@santos.com,359.41,2,0,678726.74,4,1,0,1842596.44,38,40908.82,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+344,Ágatha Barbosa Pastor,72053491841,42964488098,liz52@alves.br,269.88,1,0,1898157.6,3,1,0,2806286.64,43,97628.58,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+345,Ayla Vasconcelos Andrade,40289317541,40998855607,albuquerqueliz@casa.gov.br,117.29,1,1,426047.88,1,0,0,0.0,34,26058.57,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+346,Pedro Henrique Leão Lopes,09147253860,03912361653,freitasana-liz@martins.net,941.64,1,0,3670192.89,3,0,1,0.0,39,89319.87,3,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+347,Isadora Porto Silva,06851293730,87998128050,portobianca@machado.com.br,422.14,2,0,294878.14,3,0,1,0.0,45,23401.64,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+348,Maria Helena Vieira Castro,35268401998,47916304009,kda-rosa@vargas.com,980.32,1,0,71046.06,3,1,0,128268.4,17,30709.62,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+349,Luísa Aparecida Pereira,92315647061,67919297961,ribeiroluiz-fernando@barbosa.gov.br,420.85,3,2,2251504.74,6,0,3,0.0,94,129638.58,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+350,Rebeca Gonçalves Rocha,05249371841,32904516533,aparecidalaura@oliveira.com.br,855.4,3,0,1318047.2,5,0,0,0.0,67,57264.84,6,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+351,José Campos Sousa,97850264347,07984652135,luigimontenegro@cassiano.br,528.73,3,1,376546.63,5,1,1,402855.4,50,24865.92,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+352,Camila Teixeira Barros,47692153809,77938861629,onunes@almeida.org,122.02,2,0,929999.88,3,1,1,943450.0,54,31312.46,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+353,Anthony Gabriel Moreira Abreu,35789601448,88978805703,erickramos@peixoto.gov.br,768.92,2,1,604922.61,2,0,0,0.0,54,31018.17,4,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+354,Fernanda Sousa da Mota,23594860124,79996820616,barrosfelipe@cunha.com,483.37,3,1,3861083.44,6,2,3,3976825.05,85,74047.81,6,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+355,Bruno Lima Silva,24690718520,24943543427,kpereira@cavalcante.br,538.84,1,1,3655512.0,2,0,0,0.0,42,67026.96,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+356,Catarina Fernandes Vargas,62035419743,97976788530,xjesus@carvalho.com.br,673.13,3,0,876375.0,5,2,1,3252518.34,110,119495.2,8,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+357,Esther Machado Moreira,09431572699,86945151806,ferreiramaria-julia@silva.br,90.33,3,1,3152893.47,7,2,3,1318007.43,63,72175.88,6,4,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+358,Isis Macedo Novais,71362804940,84995007874,azevedohellena@pacheco.com,188.47,1,1,2161.65,1,0,1,0.0,15,3662.91,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+359,Heloisa Aragão Oliveira,95243876119,22902577079,mathiasalbuquerque@moreira.br,525.55,2,1,1241300.24,3,0,0,0.0,36,29937.86,5,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+360,Sarah das Neves Pimenta,52107849323,75973710509,davi-luccaborges@viana.com.br,526.65,3,1,2546290.86,9,1,3,1959443.0,63,63757.74,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+361,Guilherme Farias Vieira,80541796267,05932767834,fernandesotto@da.br,672.83,1,1,483732.0,3,2,0,276207.9,15,22593.3,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+362,Daniela Rodrigues Araújo,49387160203,89928071564,zda-conceicao@moreira.com,884.45,2,1,4181403.77,5,1,2,6027213.15,65,121058.07,4,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+363,Anthony Gabriel Cardoso Nascimento,35291647043,89962179523,novaeskamilly@das.com.br,751.88,2,0,1211621.4,4,0,1,0.0,25,50142.18,5,3,VERDE,Cliente seguro. Baixo risco de inadimplência.
+364,Ana Vitória Camargo Farias,57034968101,22917305348,mateusnovais@teixeira.gov.br,878.24,2,1,1698033.19,4,2,0,1425193.38,31,61610.04,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+365,Benicio Correia Pastor,76301528417,35995963462,oliviada-paz@aparecida.edu.br,286.69,1,0,358490.0,1,0,1,0.0,25,6927.09,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+366,Juan Correia Sales,36172845900,81912489541,mendoncaana-vitoria@barros.com.br,432.18,3,1,1017382.21,7,3,0,521391.31,43,22340.35,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+367,Lunna Moraes Machado,56031248735,87997246445,heloisapires@monteiro.com,223.56,1,0,342619.2,3,0,2,0.0,22,34179.0,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+368,Davi Câmara Azevedo,05326941805,17956142841,jose-miguelcassiano@azevedo.com,251.43,2,2,2121178.44,4,0,2,0.0,73,133964.79,6,4,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+369,Cauã Vasconcelos Borges,39725184041,53984785091,xjesus@rios.gov.br,708.43,3,2,643275.51,5,1,1,81960.0,72,45046.51,6,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+370,Ana Lívia Rocha Pimenta,42935680774,58956070315,maria-eduardaguerra@cavalcanti.com,521.17,3,0,7261743.6,8,0,3,0.0,81,151838.55,7,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+371,Davi Miguel Cirino Farias,80352619759,89987231303,luisacassiano@nascimento.gov.br,100.91,1,0,2785968.0,2,0,0,0.0,36,59206.44,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+372,Bianca Moreira Alves,83526149089,72978696140,camargoalice@melo.com.br,121.64,1,0,417781.89,1,0,0,0.0,23,17778.57,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+373,Vitor Hugo Castro Pires,34560127999,06931875969,cecilia64@cardoso.com,91.25,1,1,1013766.48,1,0,1,0.0,24,17986.2,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+374,Daniela Teixeira Gomes,29461078331,37975199424,vargasagatha@ribeiro.com,106.22,2,1,171342.38,5,1,1,399705.46,22,14845.57,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+375,Dom Cardoso Rodrigues,35078264965,66908915626,ester91@moura.br,121.77,3,1,254426.04,4,1,0,23321.2,57,26207.21,4,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+376,Isaque Castro Pires,38479625074,94939940904,pda-luz@goncalves.org,770.0,2,1,635582.12,4,0,4,0.0,37,50857.24,4,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+377,Kevin Pinto Melo,16478523071,49986931119,nnovaes@cavalcante.com,714.64,1,1,2791595.52,3,1,0,3420360.0,32,77650.02,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+378,Luna Martins Fernandes,78012493640,54914398357,nogueiraeloa@nascimento.com.br,724.73,3,2,589664.15,7,1,2,1698058.12,69,74001.51,5,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+379,Eduardo Silveira Martins,19463028722,50992672011,theo35@da.br,471.9,2,2,307651.05,6,1,1,192708.0,24,21655.8,2,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+380,Ana da Conceição Sá,47935812691,09927545682,baparecida@da.br,222.82,1,1,2272396.5,2,0,1,0.0,33,49225.62,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+381,Luana da Cruz Cirino,49802367150,07992915651,obrito@farias.gov.br,923.78,3,1,2500629.8,7,2,1,2750533.69,59,91680.21,7,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+382,José Lopes Leão,18059764357,91913196237,das-nevesmaria-luiza@da.com,748.97,3,1,2150033.13,4,1,2,2006887.32,93,100916.65,8,4,VERDE,Cliente seguro. Baixo risco de inadimplência.
+383,Mariah Campos da Mata,23570869121,35997783144,plopes@silva.com,296.64,1,0,79488.1,1,0,0,0.0,10,3289.26,1,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+384,Felipe Almeida Fonseca,63827495164,33965438734,pnascimento@rocha.com.br,359.17,1,1,2165689.6,2,0,1,0.0,40,40904.44,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+385,Gael Henrique Teixeira Pereira,13904526707,25929131180,isousa@carvalho.br,785.06,3,1,1456125.88,5,0,2,0.0,65,42381.08,5,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+386,Benjamim Rios Campos,21978465076,29990575222,rebecaviana@correia.br,169.75,2,0,2865345.75,6,1,0,957327.12,57,94448.7,4,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+387,Isaac Moraes das Neves,09342586198,01939100452,bmoreira@vieira.com,839.75,2,2,791705.88,2,1,0,896617.44,36,15323.82,4,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+388,Juliana das Neves Nunes,57426391043,83937485134,luiz-fernando43@cavalcante.com,634.83,3,1,1031283.72,4,1,1,265517.07,54,29117.62,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+389,Heitor Fonseca Brito,91620385406,56942509624,wgomes@da.br,381.89,1,0,1621005.96,3,2,0,2101113.02,23,37679.82,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+390,Raul Lopes Viana,37182054671,10941861340,azevedomaria-julia@azevedo.org,951.13,2,1,462072.84,4,0,1,0.0,44,26595.93,3,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+391,Pedro Miguel Melo Machado,35801924779,55938682520,jmelo@borges.com.br,365.38,2,0,630433.98,5,1,0,143139.04,31,17309.12,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+392,Arthur Gabriel Cavalcanti da Conceição,49380152698,61932385256,calebe58@teixeira.br,189.55,1,0,1630224.56,2,2,0,4335024.4,29,27483.48,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+393,Juliana Cavalcante Ramos,63921845033,54998462017,marianaalves@cardoso.net,595.89,2,1,3638963.4,4,1,0,1030948.26,59,94909.26,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+394,Marina Nunes Vasconcelos,24850619711,00954512086,diegoduarte@ramos.com.br,894.25,1,0,398734.8,2,1,0,1084050.6,15,15415.88,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+395,Pedro Lucas Aragão Abreu,13256904734,27943521843,eloahda-rocha@da.br,608.0,1,0,996473.25,3,0,1,0.0,25,21816.09,1,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+396,Cauê Mendonça Sousa,36801927540,05935835817,jmarques@barros.com,119.89,2,0,318214.38,4,2,0,3384841.52,37,48131.49,5,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+397,Ravi Lucca Camargo Abreu,81726093450,93954989739,luanpastor@farias.br,770.49,3,2,668557.92,5,1,1,164613.26,72,54247.1,4,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+398,Théo Lopes Nogueira,35680291703,22900932085,clarice98@ferreira.com,561.28,3,2,288031.71,3,0,2,0.0,61,29472.64,5,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+399,Nina Cunha Câmara,67840593283,31924742007,lunacastro@fernandes.edu.br,897.35,3,0,1336893.92,6,0,3,0.0,74,89328.14,6,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+400,Hadassa da Rocha Vasconcelos,12068954389,81932792488,rezendeluan@silveira.com,541.8,2,1,261475.69,2,1,1,652208.34,41,10233.48,2,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+401,Júlia Silveira Peixoto,70143859684,66937441229,gbarbosa@pacheco.edu.br,226.69,1,0,638017.14,3,1,1,727739.06,17,11420.88,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+402,Hellena Campos Correia,89164570258,65951336063,ravy75@novaes.com.br,875.37,3,1,1338379.24,6,3,1,3027762.24,59,78358.04,7,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+403,Davi Miguel Dias da Mata,93108764250,51983768801,rodriguesjoao-vitor@freitas.net,994.44,3,1,3285355.64,5,1,2,5099471.94,82,65313.96,5,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+404,Cecília Novais Abreu,43965280783,76991797286,thalessampaio@fonseca.com,615.23,1,0,1004505.6,3,1,0,1987228.8,20,31600.86,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+405,Isabella da Paz Caldeira,75213096859,98924127994,limamaria-flor@ribeiro.com.br,349.89,3,1,1357482.94,5,0,3,0.0,76,46267.05,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+406,Milena Casa Grande Ribeiro,40273681508,70923394228,maria-luisa15@aragao.com.br,772.69,2,1,1604367.66,4,2,2,651772.75,44,28627.24,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+407,Caroline Monteiro Mendes,05726148967,45991795062,theorocha@nunes.br,826.49,2,2,1257702.79,5,0,2,0.0,41,27547.62,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+408,Carolina Casa Grande Pires,85469103242,17913663109,yan95@silveira.com.br,658.3,2,1,1085651.28,3,1,1,1486187.68,62,28727.74,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+409,Davi Lucas Melo Fogaça,23541980605,02923862183,cavalcantemurilo@gomes.br,207.21,1,1,1772595.12,2,0,1,0.0,38,41838.56,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+410,Rafaela Almeida Guerra,58104723626,87901492182,marinamelo@abreu.br,862.62,3,0,3262371.9,5,1,0,2013643.84,89,83829.11,7,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+411,Theodoro Araújo Ferreira,60498513289,42996151807,henrysampaio@melo.com,750.49,3,0,1335150.58,5,1,1,576151.38,53,34360.4,4,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+412,Clarice Brito Macedo,39256081768,40905644730,vitor-hugomoura@porto.br,27.28,2,1,2080463.28,4,1,3,1956604.02,49,49078.98,5,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+413,Marcos Vinicius Vieira Viana,27850694120,15977685818,osilveira@castro.com,131.12,2,1,1844141.52,3,1,0,337445.4,49,34947.03,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+414,Yan da Costa Cardoso,32068951703,73997737961,anthony-gabriel37@casa.com,64.53,2,1,945600.42,5,1,1,865168.2,36,79900.51,4,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+415,Oliver Araújo da Mota,84357926092,28953154812,yvieira@freitas.gov.br,998.93,2,0,2082954.36,5,0,2,0.0,40,45451.26,4,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+416,Amanda Rocha Peixoto,74651308244,69939397847,krios@campos.gov.br,823.27,1,0,433557.6,2,0,0,0.0,40,52743.12,3,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+417,Fernanda Viana Alves,01297863577,51980010535,azevedoana-luiza@fonseca.com.br,855.31,3,1,594291.32,8,1,1,116333.7,64,76257.31,5,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+418,Bianca Silva Sales,69024378583,94961512545,eloahbrito@moraes.gov.br,522.44,1,0,177447.0,1,0,0,0.0,20,6008.77,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+419,Bella Barbosa Aparecida,31529670802,21977711467,azevedogael@costela.com.br,269.9,2,0,3630621.12,4,2,1,2796680.32,64,67613.16,5,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+420,Brayan Ramos Nunes,56203897159,55993689746,vitor-hugocarvalho@porto.gov.br,592.26,1,0,2100656.34,3,2,0,7989561.18,38,82993.86,3,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+421,Raul da Mota Camargo,27098315621,23920378181,mcassiano@da.net,301.16,2,1,1945815.3,6,1,2,301642.56,54,105843.06,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+422,Igor Leão Cardoso,73852169003,50945470403,caualeao@silva.net,807.28,1,0,570880.8,1,0,0,0.0,20,9858.32,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+423,Pedro Mendes Fonseca,59301872668,36988826318,isaqueda-luz@melo.br,105.9,2,1,2683388.76,5,1,3,4528339.71,81,152467.32,6,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+424,Daniela Monteiro Viana,71382695446,35964638278,aurora39@moraes.com.br,896.86,3,1,3356007.15,6,0,2,0.0,60,70813.13,6,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+425,Gabriel Gomes da Rosa,82653407108,19925886826,maria-lizmelo@melo.gov.br,224.56,3,2,6159039.82,7,1,2,688352.13,96,131587.13,8,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+426,Letícia Garcia Novaes,32865407144,31970618372,stephanyborges@goncalves.com,398.46,2,1,5037647.76,5,2,2,899419.44,73,128513.0,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+427,Aurora Almeida Pimenta,59087341601,17994502176,fsousa@jesus.gov.br,214.95,2,0,1126243.23,4,0,1,0.0,37,29935.71,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+428,Lucas Porto da Mata,21468097369,73978264222,umoura@duarte.com.br,236.5,1,0,275513.04,1,0,0,0.0,22,6234.98,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+429,Augusto Nunes Aparecida,91854732609,29983170642,ayllasousa@sa.com,571.84,2,0,686158.08,3,0,1,0.0,46,43315.25,5,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+430,Lorena Lima Teixeira,90468351701,87966987641,alvesgabrielly@jesus.com,67.62,2,0,1764538.08,4,1,1,3428537.04,48,46305.26,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+431,Ana Liz Rezende da Cruz,42109357860,55901984667,novaisleo@lopes.br,649.24,2,2,1987657.38,4,0,1,0.0,53,91507.95,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+432,Manuella Viana Jesus,67524139080,85979649055,ceciliada-cruz@santos.com,395.13,1,0,1897929.6,3,3,0,3775547.52,32,50285.4,2,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+433,Ana Carolina Castro Pereira,59364701216,45976319668,juliana14@camara.gov.br,238.38,2,1,5276884.79,5,0,2,0.0,63,83161.95,4,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+434,Kamilly da Rosa Cassiano,81472359682,47987118053,yasminsouza@lopes.com.br,733.63,1,0,891644.92,2,1,0,534016.66,19,24678.4,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+435,Valentim Cavalcanti Mendonça,78321094597,00900736115,maria-sophia08@garcia.com.br,552.5,2,1,3166825.89,3,0,1,0.0,92,115446.3,6,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+436,Ravi Silva Ferreira,81527394050,61983677048,joaquim94@nunes.com.br,243.09,2,1,2443762.0,4,2,1,5435299.5,44,39825.58,4,3,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+437,Caio Pastor Pinto,89721603422,70931064777,sofia13@jesus.com.br,17.17,1,0,34842.86,1,0,0,0.0,17,7664.56,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+438,Stella Gonçalves Moreira,73540921699,46952666273,nogueiramaria-eduarda@cavalcanti.com,565.8,3,2,5231994.96,9,1,3,1753053.12,87,158241.75,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+439,Evelyn Gonçalves Carvalho,59764803229,90994351326,amontenegro@lima.gov.br,513.16,3,1,1541136.0,8,1,4,1889188.32,55,69397.07,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+440,Lucca Sampaio Alves,21087396450,08913766078,rcostela@monteiro.gov.br,757.47,1,1,9466.56,2,0,0,0.0,16,8677.56,1,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+441,Ana Julia Teixeira Camargo,56913284764,32901247087,rmendonca@porto.org,341.7,2,1,391286.0,5,1,1,2939837.76,50,91227.55,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+442,Davi Miguel Peixoto Cavalcante,47580931214,11958758728,maria-luisasiqueira@peixoto.com.br,651.76,3,0,1543228.44,7,5,1,3380042.9,54,58158.95,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+443,Ana Clara Porto Casa Grande,15690423734,63933750282,beatriz78@lopes.com.br,613.17,2,0,1024106.1,2,0,1,0.0,70,57713.46,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+444,Maya Caldeira Caldeira,13564908242,90924383051,mariah07@aparecida.com,984.41,1,1,1871890.56,3,2,0,3553296.0,32,74034.9,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+445,Lunna da Rosa Silveira,13642587062,21983150688,caldeirajoao-gabriel@novaes.com,816.98,1,0,1036666.68,2,0,1,0.0,21,20443.16,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+446,Gael Henrique Santos Cunha,91306425824,32998144317,ppacheco@nunes.gov.br,932.99,1,0,1558674.0,1,0,1,0.0,40,24839.55,3,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+447,Thiago Macedo Cavalcanti,07512948379,79955408874,davi-luizfonseca@pereira.com,420.32,3,1,4505625.39,8,1,0,459307.0,61,92988.48,7,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+448,Anthony Gabriel Casa Grande Câmara,06258794300,58972273495,isaquefernandes@caldeira.com.br,878.45,2,0,1071585.41,2,0,0,0.0,51,17670.81,3,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+449,Bárbara das Neves Monteiro,62954038756,31905635346,iporto@da.net,388.82,3,0,2490852.36,6,0,2,0.0,104,137901.57,9,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+450,Diogo Borges Camargo,03478629187,02932585981,marquesluigi@da.net,383.68,2,0,838679.46,3,3,0,8873089.71,52,55577.47,4,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+451,Calebe Campos das Neves,57318942050,06999421954,silvajade@mendonca.com.br,321.7,3,1,681917.88,6,3,1,4320153.76,61,66109.42,6,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+452,Davi Luiz Lima Pinto,56894370265,50985034909,jade98@nunes.com,772.54,1,0,596079.12,2,0,1,0.0,52,66616.32,3,2,VERDE,Cliente seguro. Baixo risco de inadimplência.
+453,Ana Julia Ramos da Rocha,89312657437,37976645578,emillymonteiro@aparecida.gov.br,458.21,2,2,821401.76,5,0,0,0.0,31,17250.15,2,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+454,Otávio Montenegro Martins,49830657256,43918474038,luiz-otaviocaldeira@novais.gov.br,575.38,2,0,2880650.49,6,2,1,1680104.01,35,59468.76,4,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+455,Isaque Jesus Marques,39524876000,62989832554,monteiroeloah@ribeiro.com,993.34,1,1,4798273.05,3,0,1,0.0,41,94043.34,3,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+456,Luan Martins Martins,79845621058,11960381048,gustavo-henrique52@leao.com,143.51,3,1,5266762.32,8,5,1,14482396.08,61,99804.94,6,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+457,Juan da Rocha Moreira,30257169830,64934384851,mendoncaemanuella@montenegro.br,527.42,3,1,3445394.64,5,3,2,9133540.58,87,129448.93,7,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+458,Mateus Andrade Lima,95308472629,66993043556,augusto04@viana.br,374.97,3,0,2285610.48,7,3,2,5665658.64,72,91181.54,6,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+459,Maria Clara Martins Barros,84270395141,78907299498,xpastor@monteiro.com,308.0,3,1,4415823.14,7,1,0,2148012.16,91,121132.7,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+460,Emanuella Nascimento Pinto,26759831012,03918495604,britojoao-gabriel@freitas.com,736.18,2,1,350768.87,4,1,0,979029.24,25,17726.8,2,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+461,Allana Silva Gomes,91745386084,60912265923,lduarte@teixeira.gov.br,925.52,2,1,2365395.64,5,1,2,658414.84,67,91737.88,4,1,VERDE,Cliente seguro. Baixo risco de inadimplência.
+462,Giovanna Carvalho Dias,61457082985,24962010651,lucas-gabrielcarvalho@goncalves.edu.br,855.65,2,1,745031.76,6,1,3,1641978.0,31,38529.09,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+463,Stephany Ferreira Brito,81739254023,93990739618,gnascimento@pires.com.br,394.56,2,1,1155050.24,4,2,0,3605981.65,51,65577.06,5,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+464,João Miguel Abreu Araújo,51782346007,78958513725,yanaragao@teixeira.com,328.25,1,1,38956.5,1,0,0,0.0,18,4443.6,1,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+465,Felipe da Mata Câmara,35629048783,03916111473,novaiseloa@guerra.br,599.84,2,0,3026219.01,4,0,3,0.0,67,114904.56,6,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+466,Diego Fernandes da Mota,95841306251,15943755469,barrosluisa@pinto.com.br,227.79,3,2,1352215.36,7,3,1,1170968.43,61,74578.26,5,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+467,João Felipe Moura Jesus,54937862146,13975579917,machadojoana@costa.gov.br,645.69,1,0,115543.08,2,1,1,400761.45,9,4200.98,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+468,Davi Lucas Siqueira Porto,79016483500,76908338023,wmelo@rios.br,41.2,3,1,2500243.2,7,0,3,0.0,102,185958.57,9,3,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+469,João Gabriel Câmara Moura,96825130730,09919799903,luannovais@carvalho.gov.br,602.98,1,0,1081353.12,1,0,0,0.0,37,25974.45,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+470,Laura Marques Mendonça,90652748120,64980351800,baraujo@viana.br,911.81,2,1,782119.62,2,0,0,0.0,45,20326.22,3,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+471,Nathan Costela Teixeira,31865970212,93920653104,sousaaylla@santos.gov.br,740.47,2,2,389222.37,2,1,1,2633761.62,39,17587.76,4,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+472,Luísa Cunha Garcia,32987410603,89975534479,nicolasaraujo@nunes.com.br,663.72,2,1,1204437.75,3,2,1,2102152.8,45,30085.77,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+473,Daniel Nunes Machado,53761802471,89997159945,arthur-miguelcostela@marques.br,415.97,3,1,2856941.32,6,0,1,0.0,93,142231.27,7,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+474,Lorena Melo Cavalcanti,84713526991,13940593537,rgarcia@ferreira.org,499.62,3,1,2907113.74,6,0,4,0.0,61,72409.4,6,3,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+475,Aylla Albuquerque Ferreira,63571928059,17965212575,arthur-gabrielmarques@novaes.com,805.87,1,0,705297.5,2,0,1,0.0,25,11164.1,1,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+476,Asafe Campos Novaes,86714032544,68957503915,jesusbento@jesus.br,52.1,1,0,208594.98,2,1,0,397924.11,9,3443.38,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+477,Matteo Silva Marques,23615947819,92975825435,anthony01@nunes.gov.br,877.42,1,0,2184930.72,3,0,0,0.0,28,42873.24,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
+478,Pedro Henrique da Mota Almeida,32567814035,96956494776,cassianolavinia@moura.edu.br,365.83,1,1,1638511.56,2,0,2,0.0,43,63020.04,3,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+479,Ágatha Machado Almeida,94708125658,41929394010,cfogaca@siqueira.com.br,533.45,3,0,1386965.26,5,0,1,0.0,85,61450.34,6,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+480,Rebeca Nogueira Fernandes,54239067847,24947812538,pastorlevi@abreu.org,460.78,3,1,1142049.84,4,3,1,4112055.05,55,37935.59,5,2,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+481,Kevin da Conceição Cardoso,23961780595,72911062571,maria-helenaguerra@goncalves.com,117.55,1,0,113289.03,3,1,0,266178.15,9,6793.62,1,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+482,Gabriel Vieira Peixoto,03526714835,19901397015,luiz-henrique24@barros.br,583.71,1,0,130909.24,1,0,1,0.0,19,10415.52,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+483,Vicente Araújo Jesus,91725043823,19904386672,nicolegarcia@borges.net,56.57,1,0,693345.42,2,1,0,3286484.28,27,41054.88,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+484,Maria Fernanda Viana Garcia,60425738965,86945715628,joao-felipeda-rosa@lopes.com,629.34,1,0,68296.65,3,0,1,0.0,5,5284.98,1,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+485,Isaque Melo Gonçalves,51784926337,86919821277,lsousa@sa.com.br,463.69,2,0,891772.2,3,0,1,0.0,54,37620.61,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+486,Ana da Rocha da Cunha,79561403234,69928288336,arios@brito.br,14.51,1,0,462486.6,2,0,2,0.0,18,9657.52,1,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+487,Murilo da Rosa Teixeira,82730469150,19949543509,juanmoraes@da.net,451.98,2,0,825443.5,3,0,2,0.0,50,36204.28,4,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+488,Ana Sophia Pereira Sá,24706159334,66920489731,raquel59@casa.edu.br,60.25,1,0,132668.04,1,1,0,2109444.92,29,16675.28,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+489,Laura Viana Alves,07684325108,22982010048,hmartins@campos.gov.br,141.24,3,2,4011832.32,6,3,0,3589981.08,77,98112.12,8,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+490,Kamilly da Luz Teixeira,72850694185,77966437349,marcos-vinicius51@pacheco.br,78.79,3,0,4379659.86,5,2,0,5655822.12,94,95417.64,7,2,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+491,Daniel Barbosa Correia,79465230170,50929799231,luiz-gustavoalmeida@macedo.net,483.8,1,0,496144.72,1,1,0,2493469.56,38,18604.68,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+492,Maria Câmara Pires,62039817530,10961319453,pedro-miguel01@moura.com,105.6,3,0,2269891.11,6,1,0,1297302.72,69,69315.17,6,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+493,Juliana Souza Campos,01263489524,49945202584,gpimenta@moraes.net,297.58,1,0,607861.8,3,1,1,1230256.56,13,22587.0,2,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+494,Emanuelly Guerra Albuquerque,70342195670,63915962304,leandroaragao@siqueira.br,430.93,2,1,1619415.96,5,1,0,1631146.86,55,57519.14,4,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+495,Giovanna Azevedo Pereira,31905246889,95945363890,gmendonca@da.com,534.7,2,0,3260705.4,5,2,0,908292.96,83,152310.48,6,4,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+496,Joaquim Silva Garcia,38641507280,97989904905,aramos@vargas.gov.br,504.11,1,1,358864.56,1,0,1,0.0,36,24353.28,3,0,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+497,Anthony Gabriel Pimenta Oliveira,32586479173,89908926734,da-motahenry-gabriel@lima.com.br,63.31,2,0,475038.82,4,0,1,0.0,35,21754.68,3,0,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+498,Arthur Gonçalves Mendes,63957104866,05934721272,montenegrohenrique@da.edu.br,313.4,1,0,293144.0,1,0,1,0.0,20,10542.96,2,1,AMARELO,Cliente requer atenção. Avaliar antes de conceder crédito.
+499,Renan Ramos da Rocha,14675283071,20922612978,esiqueira@brito.com.br,206.22,2,1,273780.36,6,3,1,1719984.92,28,30484.29,3,1,VERMELHO,Cliente de alto risco. Evitar concessão de crédito.
+500,Levi Nunes Costa,41758963093,79907801317,luizacardoso@castro.gov.br,956.18,1,0,747271.8,1,0,0,0.0,33,17741.24,2,0,VERDE,Cliente seguro. Baixo risco de inadimplência.
